@@ -81,7 +81,7 @@ function movePaddle() {
         paddle.x = 0;
     }
 }
-// Move upper-paddle on canvas ************************************************
+// Move upper-paddle on canvas
 function moveNewPaddle() {
     newPaddle.x += newPaddle.dx;
 
